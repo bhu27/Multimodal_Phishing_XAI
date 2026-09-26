@@ -1,0 +1,19 @@
+# Raw datasets
+data/raw/
+
+# Large processed datasets
+data/processed/*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment/secrets
+.env
